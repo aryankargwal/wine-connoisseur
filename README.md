@@ -1,6 +1,6 @@
 # wine-connoisseur
-In this project I have explored [Red Wine Quality](!https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-20090) dataset and further tried to predict wine quality from the data.<br>
-<img src="https://static.onecms.io/wp-content/uploads/sites/9/2016/10/red-wine-blends-FT-MAG1116-2000.jpg" height = "300px"><br>
+In this project I have explored [Red Wine Quality](!https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-20090) dataset and further tried to predict wine quality from the data.<br><br>
+<img src="https://static.onecms.io/wp-content/uploads/sites/9/2016/10/red-wine-blends-FT-MAG1116-2000.jpg" height = "300px"><br><br>
 With the increase in social consumption, the red wine industry has recently grown exponentially. Today, industry participants are using product quality certification to promote their products. This is a time-consuming process that requires evaluation by human experts, making this process very expensive.<br>
 With the human evaluation being a rather abstract concept this dataset aims to classify the quality of wine purely on the basis of its chemical composition.
 ## Dataset
